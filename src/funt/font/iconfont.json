@@ -1,0 +1,51 @@
+{
+  "id": "2801990",
+  "name": "Doyu",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-Doyu",
+  "description": "斗鱼网站",
+  "glyphs": [
+    {
+      "icon_id": "3225919",
+      "name": "关注",
+      "font_class": "guanzhu",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "6586872",
+      "name": "我 的",
+      "font_class": "wode-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9346998",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "17134249",
+      "name": "娱乐",
+      "font_class": "yule",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18866264",
+      "name": "鲨鱼",
+      "font_class": "shayu",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "21873422",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    }
+  ]
+}
